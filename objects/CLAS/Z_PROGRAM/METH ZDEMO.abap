@@ -1,3 +1,3 @@
   method ZDEMO.
-write 'hello world'.
+write 'hello world welcome to abap'.
   endmethod.
